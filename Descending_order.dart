@@ -1,14 +1,13 @@
+/**
+ *  Title: Descending Order
+ *  link: https://www.codewars.com/kata/5467e4d82edf8bbf40000155
+ */
+
 void main() {
   print(descendingOrder(918273));
-
-  int input = 2183;
-  var digitsArr = input.toString().split('');
-  print(digitsArr);
-  digitsArr.sort((b, a) => a.compareTo(b));
-  print(int.parse(digitsArr.join('')));
 }
 
-int descendingOrder(int n) {
+int descendingOrder(n) {
   String nStr = n.toString();
   List<String> sentences = [];
   for (var i = 0; i < n.toString().length; i++) {
