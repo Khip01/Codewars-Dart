@@ -1,2 +1,4 @@
 # Ignore [CHEAT] tags
 \[CHEAT\]*.dart
+/.vscode
+\[GIVE UP\]*.dart
