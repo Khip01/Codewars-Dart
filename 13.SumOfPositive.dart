@@ -1,5 +1,5 @@
 /**
- *  Title: Count the divisors of a number [7 kyu]
+ *  Title: Sum of Positive [8 kyu]
  *  link: https://www.codewars.com/kata/5715eaedb436cf5606000381/
  */
 
