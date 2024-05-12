@@ -1,5 +1,5 @@
 /**
- *  Title: Keep Hidarated [8 kyu]
+ *  Title: Keep Hydarated [8 kyu]
  *  link: https://www.codewars.com/kata/582cb0224e56e068d800003c/
  */
 
